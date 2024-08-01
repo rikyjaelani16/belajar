@@ -54,7 +54,7 @@ img {
 table,
 tr,
 td {
-    border: 1px solid grey;
+    border: 1px solid rgb(238, 212, 212);
 }
 
 th {
